@@ -1,3 +1,4 @@
+import 'package:crud_todo_list_app/screens/home_screen.dart';
 import 'package:flutter/material.dart';
 
 
@@ -14,14 +15,9 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Todo List',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.green,
+        primaryColor: Colors.deepPurple,
       ),
-      home: Scaffold(
-        appBar: AppBar(
-          title: const Text('SQLite Crud Todo'),
-          backgroundColor: Colors.lightGreen,
-        ),
-      ),
+      home: const HomeScreen(),
     );
   }
 }

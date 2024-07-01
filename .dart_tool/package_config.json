@@ -51,7 +51,7 @@
     },
     {
       "name": "flutter",
-      "rootUri": "file:///Users/simonvargas/Dev/flutter/packages/flutter",
+      "rootUri": "file:///Users/simonvargas/development/flutter/packages/flutter",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
@@ -63,7 +63,7 @@
     },
     {
       "name": "flutter_test",
-      "rootUri": "file:///Users/simonvargas/Dev/flutter/packages/flutter_test",
+      "rootUri": "file:///Users/simonvargas/development/flutter/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
@@ -171,7 +171,7 @@
     },
     {
       "name": "sky_engine",
-      "rootUri": "file:///Users/simonvargas/Dev/flutter/bin/cache/pkg/sky_engine",
+      "rootUri": "file:///Users/simonvargas/development/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
@@ -260,10 +260,10 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2024-07-01T01:11:47.947855Z",
+  "generated": "2024-07-01T21:43:25.042116Z",
   "generator": "pub",
   "generatorVersion": "3.4.3",
-  "flutterRoot": "file:///Users/simonvargas/Dev/flutter",
+  "flutterRoot": "file:///Users/simonvargas/development/flutter",
   "flutterVersion": "3.22.2",
   "pubCache": "file:///Users/simonvargas/.pub-cache"
 }

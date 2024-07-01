@@ -1,0 +1,1 @@
+ /Users/simonvargas/development/flutterdev/crud_todo_list_app/.dart_tool/flutter_build/f368fbfa5ab2308339a6d8906d58a5ef/native_assets.yaml: 
