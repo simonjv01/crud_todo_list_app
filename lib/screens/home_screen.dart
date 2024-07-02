@@ -24,7 +24,11 @@ class _HomeScreenState extends State<HomeScreen> {
               activeColor: Theme.of(context).primaryColor,
             ),
           ),
-          const Divider(),
+          const Divider(
+            height: 5.0,
+            color: Colors.deepPurple,
+            thickness: 2.0,
+          ),
         ],
       ),
     );
